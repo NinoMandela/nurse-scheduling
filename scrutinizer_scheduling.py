@@ -149,4 +149,7 @@ plt.title('Bills per Scrutinizer')
 plt.xticks(rotation=45)
 
 plt.tight_layout()
+plt.savefig("scrutinizer_bill_assignments.png", format='png')
 plt.show()
+
+
