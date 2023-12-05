@@ -9,9 +9,9 @@ n_scrutinizerIntermediate = 3
 n_scrutinizerSenior = 1
 n_Scrutinizers = n_scrutinizerJunior + n_scrutinizerIntermediate + n_scrutinizerSenior
 
-n_billEasy = 2
-n_billMedium = 3
-n_billHard = 2
+n_billEasy = 3
+n_billMedium = 4
+n_billHard = 3
 nBills = n_billEasy + n_billMedium + n_billHard
 
 # Define the time limit for bills to be reviewed
